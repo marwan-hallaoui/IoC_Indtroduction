@@ -1,0 +1,2 @@
+elhallaoui.marwan.DaoImpl
+elhallaoui.marwan.MetierImpl
