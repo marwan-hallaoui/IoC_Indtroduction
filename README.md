@@ -1,2 +1,4 @@
-# IoC_Indtroduction
-the basics of Iversion of Control with Static &amp; Dynamic Instanciation
+# Introduction to the principe of Inversion of Control or Dependancies Injection
+Static instanciation Method
+Dynamic Instanciation Method using Reflexion
+Dynamic Instanciation using Spring Framework
